@@ -1,67 +1,87 @@
 <h1 align="center">Hi 👋, I'm Alfat Tasnim Hasan</h1>
-<h3 align="center">Machine Learning Practitioner | Full-Stack Problem Solver | Explainable AI Enthusiast</h3>
+<h3 align="center">Machine Learning Practitioner | Explainable AI | End-to-End Deployment</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alfat393cse&label=Profile%20views&color=0e75b6&style=flat" alt="alfat393cse" />
+  <img src="https://komarev.com/ghpvc/?username=alfat393cse&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **[Student Performance Hybrid Model](https://github.com/Alfat393CSE/Student_performance_hybridmodel)**  
-- 🌱 I’m learning and growing in **Machine Learning, Deep Learning, and Model Deployment**  
-- 📫 Reach me at **alfattasnimhasan@gmail.com**  
-- 🎯 Passionate about **end-to-end ML pipelines**, from **data preprocessing → modeling → deployment**  
-- 🤝 Skilled in **interpreting black-box models** using **LIME & SHAP (XAI tools)** for transparency  
+### 🔥 About Me
+- 🚀 Passionate about **Machine Learning, Deep Learning & Explainable AI (XAI)**
+- ⚙️ Strong foundation in **Data Structures & Algorithms**
+- 💻 Proficient in **C, C++, Java, Python**
+- 📊 Specialization in **Regression, Forecasting, Predictive Modeling**
+- 🌐 Experienced in **RESTful API deployment (Flask/Django)**
+- 🔎 Skilled in **Model Explainability with SHAP & LIME**
+- 🛠️ Building **scalable & interpretable AI solutions**
 
 ---
 
-### 🛠️ Languages & Tools  
+### 📌 Current Work
+- 🔭 Working on: [Student_performance_hybridmodel](https://github.com/Alfat393CSE/Student_performance_hybridmodel)  
+- 🌱 Currently Learning: **Deep Learning, Advanced ML Deployment**
 
-<p align="center">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+---
+
+### 📫 How to reach me
+- **Email:** alfattasnimhasan@gmail.com  
+
+---
+
+### 🛠️ Languages & Tools
+
+#### Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+</p>
+
+#### Machine Learning & Data Science
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</p>
+
+#### Web & Deployment
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+#### Databases & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfat393cse&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfat393cse&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfat393cse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfat393cse&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfat393cse&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfat393cse&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfat393cse&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="mailto:alfattasnimhasan@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Alfat393CSE"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alfat393cse&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfat Tasnim Hasan</h1>
 <h3 align="center">Full-Stack Developer | AI & Machine Learning Explorer | Python Practitioner/h3>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alfat393cse&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
@@ -8,13 +9,14 @@
 ---
 
 ### 🔥 About Me
-- 🚀 Passionate about **Machine Learning, Deep Learning & Explainable AI (XAI)**
-- ⚙️ Strong foundation in **Data Structures & Algorithms**
-- 💻 Proficient in **C, C++, Java, Python, JavaScript**
-- 📊 Specialization in **Regression, Forecasting, Predictive Modeling**
-- 🌐 Experienced in **RESTful API deployment (Flask/Django)**
+- 🚀 Passionate about **Full-Stack Development & Machine Learning**
+- ⚡ Skilled in **MERN Stack**, **Python**, **Flask**, **Django**, **PHP**, **HTML**, **CSS** & **JavaScript**
+- 💻 Gaining foundational knowledge in **C, C++, Java, and Data Structures & Algorithms**
+- 📊 Experienced in **Machine Learning, Predictive Modeling & Regression Analysis**
+- 🌐 Gaining experience in building and deploying **web apps** & **RESTful APIs**
 - 🔎 Skilled in **Model Explainability with SHAP & LIME**
 - 🛠️ Building **scalable & interpretable AI solutions**
+
 
 ---
 

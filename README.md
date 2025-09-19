@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfat Tasnim Hasan</h1>
-<h3 align="center">Machine Learning Enthusiast | Full-Stack Developer | Explainable AI Advocate</h3>
+<h3 align="center">Full-Stack Developer | AI & Machine Learning Explorer | Python Practitioner/h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alfat393cse&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>

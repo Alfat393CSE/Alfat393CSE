@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alfat Tasnim Hasan</h1>
-<h3 align="center">Full-Stack Developer | AI & Machine Learning Explorer | Python Practitioner/h3>
 
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+-+Stack+Developer;AI+%26+Machine+Learning+Explorer;Python+Practitioner"
+    alt="Full-Stack Developer | AI & Machine Learning Explorer | Python Practitioner"
+  />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alfat393cse&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -70,6 +75,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white&labelColor=0099CC&logoWidth=20" title="Seaborn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=11557C&logoWidth=20" title="Matplotlib"/>
 </p>
 
 ---
@@ -113,6 +119,8 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white&labelColor=1c1c1c&logoWidth=20" title="Code::Blocks"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=F9AB00&logoWidth=20" title="Google Colab"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626&logoWidth=20" title="Jupyter Notebook"/>
 </p>
 
 </div>

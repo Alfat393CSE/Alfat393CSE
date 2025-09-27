@@ -156,17 +156,6 @@
 
 ---
 
-### 🌍 Visitor World Map  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfat393cse&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### ⚡ Fun Section  
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding Animation"/>

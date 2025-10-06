@@ -76,6 +76,8 @@
 <p>
   <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white&labelColor=0099CC&logoWidth=20" title="Seaborn"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=11557C&logoWidth=20" title="Matplotlib"/>
+  <img src="https://img.shields.io/badge/LIME-2C3E50?style=for-the-badge&logoColor=white&labelColor=2C3E50&logoWidth=20" title="LIME"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6600?style=for-the-badge&logoColor=white&labelColor=FF6600&logoWidth=20" title="SHAP"/>
 </p>
 
 ---
